@@ -1,2 +1,0 @@
-# site-operator
-My Site
